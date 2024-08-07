@@ -5,7 +5,7 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>CodePen - glitch hello world</title>
+  <title>Azure - glitch hello world</title>
   <link rel="stylesheet" href="https://codepen.io/sean_codes/pen/e6f1ea02b2c69845a796acd688299990.css?v=13">
 <script>
 
